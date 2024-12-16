@@ -1,0 +1,23 @@
+. . . . . 
+. X X . S 
+. . . . . 
+. . . . . 
+E Q . . . 
+. . A . . 
+X . . . . 
+. . P . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+T . . . . 
+
+Start at 2 5
+Go to Etheria and Eternia at 23
+Go to Domeo And James Juliett at 71
+Go to New Earth (Planet Bob) at 131
+Go to The Library at 22
+Go to The Discworld at -18790481460
+Go to Jupiter Two at 83
+Go to Fhloston Paradise at 52
+End at 5 1
